@@ -1,1 +1,447 @@
-{"updated_at":null,"stories":[],"notes":"Waiting for first scheduled workflow run."}
+{
+  "updated_at": "2026-11-13T09:42:57.908058+00:00",
+  "stories": [
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "UAE National Day: 3-day Eid Al Etihad break announced for public sector - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0J1bDR3b0puNm80TjhtckxFWnBteFNRejJ6dk4xelgyYTdubmN6cktGelgzenI0R2NaMFZDZHVyblV2R3ZVLUZ3d19XZzNzWlRpWUdoYlpWUHY1d05LYmhJSzdhTEFxRlh0VnpKUk1KRm9VVzlTYTZQa21lVl9rSXZ5MUJjRnMzZ1FmRlhZX0kwUWQ00gGcAUFVX3lxTE1IVXpfOXAyeGo0ZEFJajI3ZHRYVmg1SVdReGpFaUNRSGozSXNVaDJPX2xhQ1J5Q1hsOUdXbmxUOFVKYmlrVlptREk3Q0RNbDBmM1F2ZXBYRnl1Wjc2MUx2N3BLVzhSTzBBdms4MzdWR21tOWRPR0xhdUNqWXFVZi1CcW5kZU1nNWl2SGhmVkx0WjlRVVdkSTZkRjRaTw?oc=5",
+      "published": "2026-11-13T07:41:16+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Fourteen dead, 30 injured in Fujairah accident involving 18 vehicles, 5 trucks - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVVDSF9TZnpvdkJQZXY3LW1EZkNjVGdRazJrVmIwc0dIbGJ3S1RXWnFHZjVMSW9ZcnBHX0pCckZqTTl6N1M0X0RRVjRjTGxTZnREWGQ5Z21GbkNyVk95R0YzejZsMm5QUUhraEM3ZmZzQ0tIemxtb1haR1hQdlFwTXdkNUNNVjhiODNmMXRjSGNlOTlwZHJneERqTnI4encySVBBODNYU3pTdjYydHfSAbYBQVVfeXFMUHBlWUplSnNZU21mRmhycjRmdk9Fdkc0TTNRay1HYzZlTnRGamZZSUtZLXdhdlBnTDB5UTRWV2NOMGY4MEg3all1aXA1SVFpZVMweUxGdTh6TmxMZFJaU0VNWVlxZ0ptMmVvc0k2QlNGMGlqY3V6QVRPbU0zTUpmYUJCWi15bnhxTzF0LW9fbHVCdHQ3S1hCbjlEUng5YWdQS0w3UzBhY09pQ0J1RkpsVUVod3JOcHc?oc=5",
+      "published": "2026-11-12T14:35:28+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Second crash in two days in Fujairah leaves number of people dead, injured - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3Z5OGlNZ2FpYWNTTzlBM1dFUWNvQ1JWMnBfMklhaE12TXh5V2otdHZ1QklLZVZLXzlLUjY0T1RaUnNFdUltcVlUM1RXazI3eHFCMFFzdmg2eTRKVy1wZU0zZm5Zc0h0ZC1Sb1ZmdTBwVUUwTG9Bam80RjhBcXlkd3JCbTJxS0JpVkx5MU9xN0U1aDFfRkRoN0FTSXhCV2U4eUZmU3lkR0xEUHZNMnNXLVBZaHpsbEo00gHAAUFVX3lxTFBKd2lNaTlTVHAxRktSel9WVC10NXEtUlFHeUstM1U1QzVIUWFFb25PQTN5SElMTlB0Y1hGQk5xMmF2WEgyc1VkeE5IYlo3eGpHTnBYNW1rN0ZTYUJsejJUMzJkUXZwc0xacEphLVZyZEROUVRDa293ZC1tU0pQeTJYWWx3R2UwNi0xNjRVR2pXWlotNDJXMXFWWUctZjk0d0JCazc1aHU3M0FPVy1pa05DVFZrTExyVE84UU9YUjJkcA?oc=5",
+      "published": "2026-11-12T03:44:28+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Twins, toddler killed in Fujairah accident, injured family members in hospital - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUk3Y3BPU2pYaHF3R0YtMVN3MHdzZkgwdHVGdjVzMjZOeURHeDdYUUtfSmtRYWhkMkZsaFdsUGVvQjBfblJzelM2aTVHcXgxaEdGUWxQMDVZd0ViT0F6TTRkTWh3MXRWWVdMVFhJX3oxSmxZUHZRd2g1bnQtUnFCNGFNcFc2b0R6QklWcVNqN21HTm9vMk5DMERWd1lPTUhQZThhMnlB0gGuAUFVX3lxTE1HTWd3OWxyaGNaWEFYaEhkSzlBbkozTkhTZ3NfVy1WTFdTS2p2MTBLWHlvUjFsZGJXLUVZXzc2eEJuOGdUTkY1cXBDdWVvaVFRQnJGbzFIaVFQZ25qQ3o0eVFRcUh2TEM1WUE3QXR1S3lMeHRTNFdSRHpGS2hxbUNwcUNoTl9mTVNPRHd3bF9sQkNCaTZUcm44RElpOUhTZVlfLXVJZzNuZXdyWnFrQQ?oc=5",
+      "published": "2026-11-12T07:39:07+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Abu Dhabi arrests 8 involved in brawl at hotel entrance; nabs 2 others for filming - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1ibTRmVW1ndWNQZUFxVzM0T0N5Q0tlMDg4ZXVqLWUxWk5rMUZiRUkyQklPWDU3b0N5YUdaNk5OWDA0SWg3MkFlR3c3YmMzMklMV3I3cUlhcXViMGZQR09zNlpfZnJMOFhmM1dPb0stMm1HMTNRMDBxenoyMTZ0U3FwSWN1UHhrVUJBVXJ5VldaQdIBmgFBVV95cUxQOS1pV3FXVXJnZXRSLUJ6VWF4cnRHTTJtNlBxNXVuQzg1TzdRdlB3ZFhtMk9hRWZQTXBLZXJxdUdYMTJMNk9ob2pzcDI3ZXU4NS1uSkJCUy1VQnBhWkNobjgzU0xPSl9RVkRUVTVWNVE1ODdEVlFnYjJYUkVnNkdScFI1YlBFZXQ4WXFVMFFUN2ozR01oU29fNy1R?oc=5",
+      "published": "2026-11-12T11:56:53+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Global Indians of the UAE: The bridge builders helping strengthen India-UAE ties - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hS0xsNEw2d3hzVVF5UDhHQXRMY0VoRFNXSnFoUDVxcFNwNUw3T0J2ZGE1QU9nY0g1a1ZEXzRIckJ2RWF0SzFuMlk2RnV4emxNR2JERzEtQ3dSZHhrMGh3T3B0cU9sYS1lNlRTOFl4cXVlYXNmV3c?oc=5",
+      "published": "2026-11-12T03:32:30+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Microsoft Outlook and Teams face global outage, impacting millions across 74 countries - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajVIUE0tcElNeExrTTNGSm5yYThxV3hwdDNabHhZdjN1ck9vbDRRWUs2QVRkMFd6ZUV5eno0NVg1Skt5U2x4SU92cVVQeEhCVGxCQ3lTU0pSTlpLRlpkMmZpUDNaTjg1NU1CYm1HbGMtRGtoRE5tT1phYUlhYUN1enNXd01keml2LTY2LVJsUEVoLVc1OG1rTTZkcGM0a1B1ZFNZMzZERWQ4MHVfTG1UdHFEeWhaT2xqSXoyMVh0c2V0Ym5TTWtmYdIB2AFBVV95cUxON3ZtYmZRWmplZHFtTkVZbGJkcFhvTk9ZbHN5TlRYbTlhbjBJejVMSHhfNG93XzdGaFlVa1FfNGN1dG5FR0NKaUlGZmEyZ2EzVWwtTGZoY1F6aWx3c0pnd3RpaWY2Z3ZEei1VckdwcFROMkJiVDI5Sm5qcXBaemQxMl9ZLW02MnlwSy02dUc0Ymd2eUhPaUtSR05RZmxNUmo2UFh3MV96WTdQa1VEQ1pZZG1JWWlYNFFvSE4zRHllc2xnSHRMM2RKM0lIeGRBMXFQdGdwNVJRWEc?oc=5",
+      "published": "2026-11-13T03:29:21+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Microsoft 365, Outlook hit by major outage; global impact possible - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTlyY2xXTFNWeVE1SHl5c21sYi1hNTA1R3VkOHc0V3AtdXFCLVA0TzJ0ZDhna1AwbXdRM0oxQldvM3dRcUZzMVhGMmRIV2hiTFZBZVg0UE9NVnFGWHpINTVPVzNNSTJONlBCVGdnNUtFS0NCVzZXN0FYQ0QzZ3hxemJtckgxUTgyc2x3Rnh4S01oM0pIeW1DVVltSEp0Q2pkVFJsd3JJMUN1WUNScWNxNFhPVXE0NjlLZXfSAcwBQVVfeXFMUHM5dk5RaVV6bGlZZUFRall5dzEyc1lmc2xaZEJQbU5UN1cyZ3dRS2NsenB4X3JUQUZlOVpqLUJBcUFpNm13ZHdYZDFNRF82NU1tbVBTWUVWdm9OQncyWFBHRU1TTUw5bnRwVEdfZTRVWWlvOVpOYmo0Z3NDTU9PQ3d4Z0ZBc05GbG81Q3hyMjAzSXVZSHJ4R1dURXNxdEwtamZJbUZVNmVrVktOaG5Oa19WTHhnOGxGRmR3Z1JhVkhBRW1jcjZ3MGd1bEhr?oc=5",
+      "published": "2026-11-12T19:03:22+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "We don’t need a deal with Iran, says Trump. Is the Middle East stuck in ‘no war, no peace’? - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTN2MUw4N1pPNFVBU01aU2VpYjgtSGFaRjVzRV93QkxaYU1OVm43a3ZCRHV1bmRXMmY0MFc1X1Z3V0twS01hS182cEF2NGw2T3ZQdDlMYVZrRHlUd0pBaDJZLWxacFByb05PNzF6WmdVUUZlZDROTjZQZ0VLNGVNRm9WUzBXTjBCZEpZVUJJMmFVNENPSmJYdDBZWFdkX0luVzNSRkt4SUtON2h5c2dudWM1S3V6RjdhcHo3UzdGSllMQWNtU3dv0gHaAUFVX3lxTE02dkJka2FqaTROTEtXZ2pCUGxTQXVPYU1lUjgwc1hKOTdGTDVtUWwwNl9UaUNBQVptQV9aeHZXalBWTVByLXVqMy11NFVmNzA5Z0FUaU5zb2taYXoxc05DcjRmMzM2RkQwd0FxQjQ1UnUtUlhSeTRSbEtNcjMyTzZUdWxveTF5VC1BQ1FhN0ZCbjVMVVN2R29HQ2hXQ3lFMVBuckNoWExNWFhiMDBlTzNxbjdaNXdQT3lzT0hpNE4xWXF6ZVBVX0ZGZE9maUllbFhmWkFDWWhlZkRn?oc=5",
+      "published": "2026-11-12T15:35:11+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Fujairah car-truck crash: Indian expat twins, 21, and toddler nephew killed - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW1URUwwd3pkdVp2Q3pQQVBOc0h6cHp2UFlvOFoxSTk4UmVhSEEwRlB2R29IcWNJQkJmWTFNZlpLVkx6Y1FkUGh4c2NJaDlNSzdLWldPc0V0ZXpfNW1CSFZ3bnZnUHg0cTNDZWZPZklFMlBTR0g0aUtBR2lMT3ZyclJnd3JmUndkQlFsbW1kS0d4bDg2TFJ0aWtBMVVKQTFUenBNb3lUejZIQnRseHfSAb4BQVVfeXFMTXhZTzhNY3VmVXRYX0J2SVRWMUpMSUxFLTBZNXgwaWl6MGZmY2JqWUhsQzJjc2tGdUctbmg0R19pVE5XS1R2bGpOLXNmTmpsa3Rnb0NzRWxySVdQWHRQTjBrc0JNZXhZN3A2OFV2eFFjYS16UkpGX1NKY2tRbG93VUppZG94TTIxdzlxQ3phTUVmUmVLSzREaGtpUEktVTdRVHdKdkhreENvSDBTWjdzYzM5anl6SlM4WlBEWWtVdw?oc=5",
+      "published": "2026-11-12T07:16:16+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Anirudh Ravichander shares first wedding photo with Kavya Maran after Greece ceremony - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUEU3RGRPeXVQenhXX0FKZHhBRnJpUTA5SVVTNGpBZzZqQnk5Y1Fxdzd1Nk1hMlo2X2VmODlHUDBvbjFPbWRfODFSU3Jza1FubHR6RVdJbEkwN1ladFVUZTZwZHZQTXZ5d3dma3FnaHluc2N5RXpzMnU0aGN0elNrLUdJLXVKUl9EX3ZaUXJBMVk2WkhHdDY1SDVvek9DbVVJY3BUSVRYYzl2TG9TZFhuTUxmcTdTYjZYUGFHU1E0RU9EdUZFcGR4WXI0bknSAdwBQVVfeXFMTzJnUkg2eG1Jc2I4RzR2ZlM3WnNJalYtbjlVSmlOWmgzbzd0MjVFOFNWaEF0Z2k2R2JUWUF3emRMdkRoNUdWVVdFOTd6RWV5VVN2dWJUYnVSdUNRN2Y4MEdDQVRieTl2WWdXbUoxcGoyMUxXMkZoOGRzZF9XTDZEQ0JsZUpXQmJMamZlVWJKRFV1elRpRENzck90QUgyQzlrQ0NKaHl2VGNuREJINlFOUDVjdTA5bDRlUV81RC1GZU44N05SRVAxbTd4MkJ1bWh0TlpCZTh1akhDRTVhSw?oc=5",
+      "published": "2026-11-11T15:02:35+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "The 2027 Coachella lineup is here: Dua Lipa, Tame Impala and SZA to headline - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3huUjZlNkV2S0RScVROTU53a01NM01GMXFZVTVvV3dobE1XRWpNUlpmRmlLNHRIZWx5ekVtNG9sbTg0bXJIUF85aGZBTzkwT0V3dm1uZE5pb010cy10Y2RpNU5Ya3lOeEx2ckxES2ppQ25zazJkaDNnT3Jyc2wyX25aVWdyb2FoSmYwY1RHeGRrZWZvZTd5VnIwWXA5WHl5MzVjbGtDZnc5SmFNMERPWjBoa2I1dUlrOW9EQkFR0gHOAUFVX3lxTE55UEdNekU2ejZSRE41R255QV9XTkVmaThIcGozYU9SVmhhZEEzUmE1QnluZ21pY1RWR2piVlZpOVJRU3pkUkl5R0xCb0hKaDFzemIxaDdNN25FcUJrbEt5SzlwRU5VQ09Ibm1fdkNxTlZobUY1WkpNZndRb3NMWkVYcWh6TUlobEcwRTlxbUJWSzFpa0pHYTZKQnBrQ3ZTSFN2ZjdqWGhpbFB3X3FScFJoVjNmRlFpcnIycHNqdjFXZ0JqM0p3SUdsQlhQQlhn?oc=5",
+      "published": "2026-11-11T16:02:19+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Egyptian mother arrested for poisoning husband, two children to death - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVhPTWdXZHRpcVEwNGcyVVE3SnhBMUMtaENtUGpIZGdmMGFFN2RXeE5lRXE1MjFUWEp5ZFlFa0F1NXlQUS16OVM0LXF4RGFSelUtejFXVUZtY0R1VERYNEIzYWV0TzdlRTZ2NkZfUkpxMEtLQlo3Nlpua3g4dzRzcWFCRFF3Vkx2eW5LMWROU19Xc0lpaWpuZzZMUWpZdTM1SlhBeHZWNXBQV3poZ0lnaEZwdkXSAccBQVVfeXFMT3EzQ29oZW1yQ2R5RlNaWGRrQVVHbWJOYW1mWS1YNGE1UC1pYVFaUnpQbW9HZTN1dnpGZmQzTGctSlpDUVd1WTlEdjQ3RTQ5RU42eUVmeUwyS0tncFhobEw1S2dyUHdrQzVQQU1hTXNBSUJuTVEwbllkZUFxNk1xTXZ2R1JNUmJsdGhqZkl2UG93YUxjeXVUXzFRRTY5aUh4T2RSamZLQjlPUktReGlwMUJlN0wzaGg2SThxWXpuNkQtOU43aHNZUQ?oc=5",
+      "published": "2026-11-12T16:46:33+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Sheikh Hamdan honours winners of inaugural ‘Dubai-it Award’ - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUy1TeWp1VlZGN2VRZm51NWVBNmdRMzl2bjg3Qzh0akl2R3dySUZuNF9nSHA0bVJFSDRJeldjT3labmNyZWJ4VGFXbmNiT1dlUF9Sd0hiRDZjYXlBSjNrTF84U3RHSXBaVllFMFhDbW1sM2VJMnRpSDFyZVl5ZlFIT3BTOG9kOUdPc0dGWWwwSHdBbndm0gGcAUFVX3lxTE01NlBleXVoTmxodmp6Z1VlWEN5NWdjOVE5bGhKVURKLWV2ZmxLSzlRaGJYa3JFYVBycTd0T2lxbHZIQlVwQ3hmcks3Ynl2dTVsYTNWRnU0M2ptTDY5d0Fla3E1RFlvUW9WbjZMeUJpcElVWV94bk81T21jU294YTdxX2NvZnBNOXVLOVE3Y0dXT1RmdzJrLXlrU1IzYw?oc=5",
+      "published": "2026-11-11T17:50:49+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Explainer: What's driving rising aggression and violence among children in India? - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUtvZG5TNFR5c2RKZWt3WWxxWHNrdENmejdIeUh0Tk1IcjM1dlltUVBOZ2h4eE1VZHVrZTJybmRfMWpqU0Q4c3ptNGVTLUh4R2R3R2NUQVJEaEQxU3BqdGlLUDlrNklBdzQ3TE5VTEV5QkF5S3dEejdtQ2dOM0hjX0xtT0NoaldfNEUxTUN5ZDFSUdIBmgFBVV95cUxObVJtOGVmWF9KaXpOM0lHNWpjOEhpYVpPQzRFNTBEenNNbEFpWmpCRTZfMDRJOHRXWFZDUUdTVWUxVzAxUktrVG80TlhyX2RuU2I0YlkySnBvcXJIN3d2NHg4RlRIOGk4ay1ReC1VQV9oS0dieFFJblZHMmJwWENZU2dPTHVRaU9hVTV0WFI4SGNXRkpMNDZJbllB?oc=5",
+      "published": "2026-11-13T02:00:00+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "Dubai Police to add specialised rescue machines, boats to enhance emergency response - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0V1LVc5WDl4bXh2TVdKdHNsMjdYWFBLbkRuSXc5MmJrSlgzc1l0N3RFOUVxdTlZNHAwUDlKVG4wdnRUa3JoQThwZlZiajg4WHJzelpHQmZBVXp5TWtiQ1FOdHhybEQ4SmRYV0ItTEZEZ2JzNWlzQ0R2WTE3OXBqRTRpZ3hsd2ZzWnYxMm9QSdIBlwFBVV95cUxOdFZLOG5IY3NDRHIxMDgxMTdndHVONXJMMjRCc2IzcjN1MXJ5eFh5Yl8wcnhQU25sbTNlbkRmMTRuVy1UVGVOQ3d0Q051ZkJPY2xQU1JRQnMtaVJKVTlUWGVTb2JoZXF5YmlQM0tZQVVLOU0tMmdoLWU4NGliWDFnckJRSkdUelA4RGd4bWRrYkZWTnBPcmhN?oc=5",
+      "published": "2026-11-11T15:44:15+00:00"
+    },
+    {
+      "cat": "adx",
+      "source": "TradingView",
+      "title": "FOBI AI Explores Potential Abu Dhabi Securities Exchange (ADX) Listing as Part of Gulf Expansion - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTXJVOXJDU2tVWDN0SmZmTmVZUi1CSXkzTVhCMkdvMnlWQkx3aWZRY2pfeHdDQUQxTXJHZFhlSmdqclpIMmJzR2REN0tRYl9JbDU4SzJnU2dNUy1NZ3oyR3hkX1dXaVNYOWVZOGFlS2hnN0dqTnMyc2poUUFVV0JocVg5QXFONVQzdEZFaXNscm9EX1p5YVFGdVRISm52X3A1UW1rT09Pb1VYd2R5SDJMNGJfdVZLM2JaR3gtaXJVR0M1am1vV2xQOW9icjd6YV9ZNkp3akJKLWI3TjRBMnFmYnRFenQtN3NRa1BYclFOTHNRTHdsOWVfZVVXTl9TaUk?oc=5",
+      "published": "2026-11-10T13:00:05+00:00"
+    },
+    {
+      "cat": "adx",
+      "source": "Bluefield Daily Telegraph",
+      "title": "FINTECH.TV Terminal Integrates Abu Dhabi Securities Exchange (ADX) Market Data, Expanding Access To Middle Eastern Capital Markets - Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTFJVRFIxcWdVckdPSGI0Mm5Vay1iWnhSN3cxRUx2eU4xQU9HajJHT1dlOUlIeUhPRmFRdF84ZElDSHdweXJiczgxNmp1TnB3N01CWUZ0OEh1TDhUeGhUWG5jNVdkMk1UZWkyMHJMU00tUmJIUVZVb1FDcEw0SDVJOUh4NXBQR3J6aVNUenZ3RlFrOEJuMmdQd29aeVdiQVVsQVZNbEdXWWNBdHdhQ2hsT3JDQ1dubFBwLWw5RTFOX3ZleG0wZEhsTUgzTXE0RGl2Z05jak5YNk4zcktLNDYyYkMya2hsU0UxY2d2cmdxWDVJcHIzMDhwQWF4aVptUjlVVWY3ZldySWJoeEQyb2VWWGF1Ti0?oc=5",
+      "published": "2026-11-10T13:34:18+00:00"
+    },
+    {
+      "cat": "adx",
+      "source": "GlobeNewswire",
+      "title": "FINTECH.TV Terminal Integrates Abu Dhabi Securities - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSDN3V2dYaFVYbHR4cERTLUg2LVJ0OEk3cGw3ZXdiUTVDZXVraTZoejBYM3pUNW1qMFNoa2JYVnZoZjEyMjR6M2ZCY3lWcmFjbkM1TEF6V1dtel83Q2pob2wxQ2J3SVFXMzZrWUl1LTg4Qk5HT0E5dVB5VnR3VkJFbFdnSWNkbWc1LXh4NU1fZmpJR2F5MlhSMHVHY1J0Q3kzcGpLSEZBYUNHeFo0aEhwQlZHR0JDOFlzbzk4U3hFOUZuZXduS0tYNHAtTmhDdUtKbHJCYlU1OFE3YkZuTEp4endueHpqdTZwOFlDa2c5cmJDWG9ORXVpQXBqRmw0QTVZOU1mMXdYQ2FRZU5OZ2o1UlVZNjlnc3BvRS1MTVpaTkxEUFRyb2c?oc=5",
+      "published": "2026-11-10T17:57:02+00:00"
+    },
+    {
+      "cat": "adx",
+      "source": "Forbes Middle East",
+      "title": "Inside ADX’s $1T Stock Market Network Connecting Regional Investors - Forbes Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlRJUUhSRmYzaGs0NGxFS1piZzBTdXpLQzFLUkFOUlZqUlNuU0RYV1N4ci1OX1hwOUcwYnBFMVE1emFUX2dham5kQWpiV192X1huSThpdFZmZDAyc1RDMFdZbzZzZ2NsNWZaNjlPM3FhenFVNnlWMXM5Xzc3SVlGU0tIRHE0LWgwZld2Z2JtVnhUU1pfYlZDaVFYVTRRZ1pLeXBRWUxYYWpsUmFaMFdRNktQcUlvX1lFYTZfTjhaV2g3dWQ5aDlnVXZVLTZRTVZNbVdyQlB1VDU?oc=5",
+      "published": "2026-11-12T14:35:09+00:00"
+    },
+    {
+      "cat": "adx",
+      "source": "citybuzz -",
+      "title": "Fobi AI Launches Feasibility Review for Abu Dhabi Securities Exchange Dual Listing - citybuzz -",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTVhN1RibDFHcVZfUWVJclBqcHczcTFNbzBacWgzYlZ4bWxtdkVZUndWbTZ3V0s4UF8wMmMtcUduRFBfUDM2ZkVMbkJLYnpmS1BSdDBIX2FNaHU5RnZSQXZXM0szMldQUGNBSDZSQXRRTEZUV1Baem1Vb2pyRHJncGhjcG5IWXhJNHRVbGJaZWhNNkhweU5yM3RxLXI3cElrR2N4SzZrRHNQVlVFUC15T25EZkh2ODRaeWc?oc=5",
+      "published": "2026-11-11T09:20:47+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T03:57:01+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:01:35+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:48:29+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T20:09:16+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T19:23:02+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T03:02:54+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T18:47:35+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:56:55+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T15:18:20+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:54:12+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:07:19+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T07:45:52+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T13:58:49+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T21:27:21+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T22:07:37+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T02:40:18+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T09:34:38+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T00:13:35+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T01:17:58+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T09:29:25+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T15:10:32+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T13:27:09+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T11:20:25+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T14:29:59+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T22:51:18+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Christmas toy rush being driven by squishies and building sets",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T07:52:05+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T22:52:15+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:56:12+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:10:20+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:04:55+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T14:45:46+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T09:37:33+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "What happened overnight with the Microsoft global outage",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T07:18:17+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "Global Microsoft outage affecting tens of thousands of users",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T02:38:02+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T17:11:48+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T16:43:36+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T15:26:39+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T22:26:18+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T11:33:24+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T20:30:00+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T20:30:00+00:00"
+    },
+    {
+      "cat": "tech",
+      "source": "BBC News",
+      "title": "Tech Life",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T20:30:00+00:00"
+    }
+  ],
+  "notes": "News headlines are aggregated from publisher feeds and Google News search results; links open original or aggregator pages. Not real-time stock data."
+}
