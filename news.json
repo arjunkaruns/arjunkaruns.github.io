@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-11-15T07:15:31.949660+00:00",
+  "updated_at": "2026-11-15T14:51:11.683398+00:00",
   "stories": [
-    {
-      "cat": "uae",
-      "source": "Khaleej Times",
-      "title": "UAE announces 2-day National Day break for private sector employees - Khaleej Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONG1ZLXYyemlTUnF5dGtMM2pWcDZYWGlKcjhUTWpISWFjV0ZGc01BczNyMzJWOHNqRS03bVVGcTg3Sm9zeVNWYnlmdURiZG5LSWFkellJcVdQTW5wYUVzYkh0TFhWQlJiQ1kxY2xUOTZIVmZRNGF3ZmpnRnlzdnRrN3lqckwyaFFDTUN2OEdMZWFQNzV5ZDM5ZTg5Y0ZFenFPSVHSAaoBQVVfeXFMTjFhRGtHUWo0WmtBeHhLTVZxMWlUQ3gxanZZNUxCZ01reWEwNmVrU0w5bkRwLUJzNnQtV3RMdG1yRmFBamtBdEdCSTNhd2FyX1JXMGxVSUw1T2I2Sl8tYlFLYTBFanozUmR2V1U0NlFCN3ZqRDdPOXN4OGwydXY0QURVdzgwdFduYjkwRkxXVl9yNDA5ZXQ5am1vanlxR0J0RzdRc0V5Ty11Y3c?oc=5",
-      "published": "2026-11-13T13:18:25+00:00"
-    },
     {
       "cat": "uae",
       "source": "Khaleej Times",
@@ -38,24 +31,10 @@
     },
     {
       "cat": "uae",
-      "source": "Gulf News",
-      "title": "Outlook down, memes up: Internet has a field day with the Microsoft outage - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaF9uemUtRHlvMW5ub1dma3ZxQzBiUXVkMGJyU0VzRHJraTFmY0l3T3RveDJHdlpqcUhfOGU2MEQ2ekxYc1dFZ3JfblFfZWU5UEFmR3dyMWJTbmRVTjFpdU5uVXB3R245bm1nYUd1YVJrTnUtZHZsZWZzcFBRQ1ZNRWR6cmx1b3dwaE9ReFFzTUMxMXRsLTJVVEhoRUh2dzNTa2l5Wm9WVkp3dmJ1WlRCU2pwZkVwMU3SAccBQVVfeXFMTzBLQTlmWWtFZDFtMjFUMm5uU1VJdnNXbTRoRUxiNTNxMEFuMXR1d1R0MHozcXVhU3RJRExTN2NBbE13MFlIdGJ3a2hrcnUyZWhWcllpbUhXMThjMERSRkFmQk5UNWs2RHdQYWEtc3dMN0pfdlJoMnVCMlI5eGUxdWl0eEZpdGNxUGhpOS1uSWFyYXNzYnpKdlFtSE92U1BTMl9zZjhxRml2RWFaajRDTDZ6OWllSUF6QmpFLXJIc1BldTV0MERVTQ?oc=5",
-      "published": "2026-11-13T08:48:27+00:00"
-    },
-    {
-      "cat": "uae",
-      "source": "Gulf News",
-      "title": "Trump bluntly tells JD Vance to shift focus from Iran - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHA2eEVuTXBSZmpVNDU0ZGlfNkgzWTZFOEVlZ3JzNkMxRWZCQzg5eE96eWhlbFlCdEh0dXdNblljbDJoaF9JRGdlZXItNFE3UDA1SS0tN1dBZjFMSGdlOHlrei1GN1oxenBaNEVVT09DYnM0RTBZd1FRS0UzTUhkSkhsU1lvR1ZJYWJSZ3pPSTdwVkd1T2lCQ0VLZXZvQkdYejJV0gG2AUFVX3lxTE1uQ1BpSjRRZFQxcjZPOEhMenZsVnVTVXhEZkdvRjJzeERMUXZ6YzM3S2piMEx1eDBtOXJnX18ydnkydG5STHptX1pSUHNmU2lYWm90UktNUFlLVFVicTVZVC1IOFJPSm9wNzVQX2FUMjVjZVBuOVdmLURsMXNWQ2RnLUpTb3BjSWZYLXZWeEpuX2RkM3UwRXBiTlp3azk2aHo5WGxZWm5VYlp4YVNkakdPeFdKTWJ3?oc=5",
-      "published": "2026-11-13T09:13:17+00:00"
-    },
-    {
-      "cat": "uae",
-      "source": "Gulf News",
-      "title": "US flight chaos continues: Over 2,500 cancellations as services resume - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlVJNGpYLXhKWkFlWVNRRkQ3OGhGdzl4R3N6MGQ4UWItYkxRa21KWExRTVZUbUFSUERSeUVMNEYtLXdVSl94TzZGZC1yN2xQY1NiOUU2RDFiMWktajJCQXpXRnhzQVRnY0dUbU8zcjdpdG51cm9GbHdyUXN3bHNIVGJwWGI1c3BDdnNkdFkzejVKOGhuRFpybWVsQmd3RXpQRG0zV1F1XzR2Y2xmTlpvcjg4YUJTQlVCbWJr0gHOAUFVX3lxTE1HeFVzNUoyQWZtQW1DYW5HR2lRRWhoQ2thcmstQWRPV3dFN2EwaUZ6a2xod1dWcVhYUnVCa3JkUV9ER0RfUTlTVDBUT05jUTVWMEZ0ZlF3d2hiSk1oRWdfNGxvNVF4ZXlqTjJnVWVYc2EtNmFUNnpEbmVUUk9tQnM3SE02ZG1tWklvLWdWOXZZX3Fza09XemM1VERfVXJ1bURwSDA4ckNCQmxQbE1YZm1kaHhjQS13X1NaQlRNSlE2Z181V1l5bDU0dGpWYUJ3?oc=5",
-      "published": "2026-11-14T12:43:35+00:00"
+      "source": "Khaleej Times",
+      "title": "Khaleej Times - Dubai News, UAE News, Gulf, News, Latest news, Arab news, Gulf News, Dubai Labour News - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5fYk8tWjBWRG9iZzVYQWtsRTQxaXpwVDY4OHVmV3ZDd055V2ptWVQzcURXVlN0WGFyUE4xdlFBYWxBcTQ?oc=5",
+      "published": "2017-07-14T05:25:34+00:00"
     },
     {
       "cat": "uae",
@@ -67,23 +46,23 @@
     {
       "cat": "uae",
       "source": "Gulf News",
-      "title": "Philippines' Carmelle wins inaugural Eurovision Asia contest - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamp3dFNpWHdKa0d3a29kSXZSX2F5Rk1ELUFvci1Xd1kySFJodndXYjlnaHpDMjdITThqVm1jNXEydFNSQjdZMUdlRTZ2ODNXbV9neXRjeTZoQWR4NzJSWEowb0FJWTY3TUVoSUxKWTZFb2cwTnJSejhyU2hsRDFIOW1renY1TFU3TFR6clRLTHhzUnBiaVVkaHBiMWhBSjJyTzRUSG90eU_SAbsBQVVfeXFMTm94NHJ2RW1rSFd2Q2pZdXBZQzdPeWN3eG5CdnN5ZDZXY0tfZXE2elp0eDB5bGNaWmRMYllmU01WdXRyeVV2X3NYMjhwUW9XZHZxeTdnTlRnNlhQWkk2WWkwZ0MtazlqYlJuVXI4Y0kzLUVfelNSZ1YzQjgyQjBTSHIyRE1lOXNvWlhFQUFHZjJkRmxXdW1aNW0wU3lVVjFWSzNxXzNuc3o2RGJFRlJsbWJwd0Uwc3B5NnAwaw?oc=5",
-      "published": "2026-11-14T18:03:44+00:00"
-    },
-    {
-      "cat": "uae",
-      "source": "Gulf News",
-      "title": "Fujairah accident: Fourth Indian killed in UAE tragedy identified as 13-year-old boy - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVhoa0dqdU1DM3lhaGdqVVVKYzUyamZWMldmZDF1eHViSUZ6YmgtQkhiMmh4Vy05emxqakxVNk9Leld0cklzRWhqY2M0b05tOF9qbHJ2YXNvYVdGUkdDdC1mczRvNFpQREV3ZkFMZjAyR3FINWprWDlHNGdmaktkUTgyNnZxcTd5b2t6TzJoRU9UMTI3cDJtZHpaVTVQenpmUG1nNTRPX1RLWTFEaVpxZGloTWgwRkxqLXZhV9IBzAFBVV95cUxQcDYteUVIbHdrY0g4T2dXaTNLUlFKMmh5R0JjZ1hrbHhMalVVUEtqSW9nS3J0ZnZTeGpKeUlTVmo1OUhjOWMyN3pUX2hQWG1uOTBqRGoxYUJZOEtCbXFlTHdKX1lXbE9meENUMVlrUHdNVEp0R1k4VENOTjZhSk85aFg2Z0Q2Qld0ZzhiNnN1TWVqZXkta0xmd1dSQkZlTnFzN29QT09sN2hJZHRJZ0VEaVJ2OHY2OGo5REhSYlVMRGpieGI1OFQ1d0ZDZGw?oc=5",
-      "published": "2026-11-14T09:15:33+00:00"
-    },
-    {
-      "cat": "uae",
-      "source": "Gulf News",
       "title": "UN urges US, Iran to allow fertiliser shipments through Strait of Hormuz - Gulf News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkhXYlZMT2xtb3hFRjJqM0xDRFQxdDlNRWtNVTNwQ3RMZlNVVm9Kc08waG1JakhObWIyTUFhV01KcHhNb1VZN1FQTktVQkx1OVV3UllETlVlSklBM1lpeWlaZkVUVy1CWEVRNGxwMmROZlNIRWxJQ0h5ZnhOQTdOamswUWpXN0JJcFhvNkZuejF6VnI5REFWMkM5Zm9tbGlab3FZd0hsZmlPdjdxT0wtRVdJeDZfUdIByAFBVV95cUxNcUVpWGRjM1hjZ2pwOXFSZlR2SGlRejdBLVR3X0xrVXRxSkh6bnRlOU4wYklzTmFJVWhOY1dZd25neEdKdWM0VWpwQVNlLWgtUEpjMDA2TnpianIzenNhbzRwNFJwYlJKaDZHYWpTcWQ2bWREQlBvY045MUdxUUdRSVhOLVRNaTdsMHpkR3dsQWxfNlRnZlZRMkNEM3c3MTA0aXM5YzQ0WVJKa1VGWVU3R3BXdjZpc0ltSHBVdHhJbjdiblpDUmtfLQ?oc=5",
       "published": "2026-11-14T16:11:29+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "From drone plots to cyberattacks: Is Iran taking its war to Europe? - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbl95NDA2czVBQjJjekpxZDJ4dTZjYl8yNUtZTktZcFp6OFN3UU9iZDF6VDdNc2NUM2VPUHpvNXNlNmlJOHRCVVFBX3piaWxHUzJiVU42RFNEbVdLZEtFMUxyTVo3MC1tbjdHaHpBdHpLMjFyc1VjM21VRUpSTUNGQWhxZkJSaXpLSE5jbTgzTEJRMDNOSU01a3VCMmE0RXFUME9IM25mMWhLYUtMZEHSAcABQVVfeXFMUFpHT0NJRTh1bW1zOHRDaVR2VjdaTi1UckhWbVZ1VFZLUlFPUjdodGJsMEtUT3lHemRqTkpaVmxrSUFRWW9kMUk3SFRidndwVjJjZ1hTa3p6N3FweUNHLTNjcGt5VThEWkE2TkxodTRHcHpsN3l0U3J6THk3WHFTSWJsZGNmcDlXWWFZMkhoWElnaDA0OW9uc2dYWUV5OC1RajJIXzZNbFdQaFA2bEtockVEUy1ubi1qd2Y0VlJ5dFpX?oc=5",
+      "published": "2026-11-15T09:59:47+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Philippines' Carmelle wins inaugural Eurovision Asia contest - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQamp3dFNpWHdKa0d3a29kSXZSX2F5Rk1ELUFvci1Xd1kySFJodndXYjlnaHpDMjdITThqVm1jNXEydFNSQjdZMUdlRTZ2ODNXbV9neXRjeTZoQWR4NzJSWEowb0FJWTY3TUVoSUxKWTZFb2cwTnJSejhyU2hsRDFIOW1renY1TFU3TFR6clRLTHhzUnBiaVVkaHBiMWhBSjJyTzRUSG90eU_SAbsBQVVfeXFMTm94NHJ2RW1rSFd2Q2pZdXBZQzdPeWN3eG5CdnN5ZDZXY0tfZXE2elp0eDB5bGNaWmRMYllmU01WdXRyeVV2X3NYMjhwUW9XZHZxeTdnTlRnNlhQWkk2WWkwZ0MtazlqYlJuVXI4Y0kzLUVfelNSZ1YzQjgyQjBTSHIyRE1lOXNvWlhFQUFHZjJkRmxXdW1aNW0wU3lVVjFWSzNxXzNuc3o2RGJFRlJsbWJwd0Uwc3B5NnAwaw?oc=5",
+      "published": "2026-11-14T18:03:44+00:00"
     },
     {
       "cat": "uae",
@@ -109,9 +88,30 @@
     {
       "cat": "uae",
       "source": "Gulf News",
+      "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0pkS01YTDhLdy1wSTdyUGRxU0Y0cXc1bUhWNm0tMHZZbVZYYi1SSmZMWkJxZWNUX0RKYVVWcWVxbWZVYjhobUt5N2k0Tm5oazRPemVVQXJHWVYxRHpFaVpfbFVxNXplMnhPaUdDY25WM2lPVDRPUkdiajE3UFdBYmFqWDlpTm80S3otUW02N3lZRi1wTmNHZzB3Y3pDZTNmSnBQQWZOTklVa2ZWUkJBNXQ5RmtFSzNQUnZ0M25PcUxETFZjRE9TWFczRkhYMk9yQWQ2TNIB5wFBVV95cUxQRnNKMTRZVXRpN1VDOERya3lhcWNvbkg4N0p4c0I3X3Fma1M0QWltNnlaNlc3RmxJLXdaaGFReU11QUlmc2JlemVUVU5wZkNEc01iYXl2Mm1valpQQzVULWJObkZhaUZRbFM4ZUNYUHBZUkJJRDZULWZRVXBYZktnamNvLWVHTnFkSXFGWE5FTWR5YWhnR0VCUmNVQ2JnNXBhZ25JNXFPOGRJX0F5MnhxdFZDd0F0elROdUZaSkcwcWYyd0x4WWloeWgtRjdhRy00WHNNaHFiU09scU9zaDJ6NjhGdWlKaFE?oc=5",
+      "published": "2026-11-15T02:25:54+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
       "title": "Iran Guards say two oil tankers hit by mines in Hormuz - Gulf News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3gxTEpMbUFnM2dsQS1DTGR0WWthOEVSd2lGZURVVUh1ZkI5OVVCYm85OFpPOGZ3S1lMWUlnSTc4NFdIT0RTYmo3NmxyT3VvRncxUmhGSk5KVTY4RlVwRHpDdUk0ZHh6N1Z4b19MeGJ0YmJoYXprYlVKZm5tSUFjc19pbC1XUXcydUM3QlRiYTdubEhOUk50YmlKb2tDbG_SAbIBQVVfeXFMUHRPaFZ3bzdTdEwxUV9lSWxmbjFUUDFQeUF6UXF2VGs4RnRiV2NhTG02SWdLc3QyLXBobWtrRWt0bEY2TVJRbG1ubzB3NTBfeFd0MER0NHNkSFlTNFN1dVY0ekxCRHV3MlhIV1YzSkIzZ3hmVFdjektRazRicGRUM1lkQW5VWW5aMHhuTWNuR3NwRWtITGluVHN6QzRRbzdQMzVjM20tNEZoYjNEakRSR3N4UQ?oc=5",
       "published": "2026-11-14T04:11:43+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Gulf News",
+      "title": "Fujairah Crown Prince visits Indian family that lost three members in accident - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOW9RRFA0Ui10LVVVWWpOUUJQSWVraG4xcWF1YUtGVjZxNlZIeW1MbFgtcEVvb2d2ME1tc0hFRi1sSldGOS02bjFQVFA5TmxFRXQtTi04d0lXdFBGVk9TV2Zfdm1HckhqelpvVFR3bXliM3JPQ1Vtbmt2M3llbW4za3pnajhuQXZJUXFGRmItdkktQy1TRjFuc29rT2JMdGt4UXVKZEYtQkZvRHIzV0RiYUtsS1BBSWxTN1FwcGFHSDZiWjDSAdYBQVVfeXFMUDBzWTNFQ2oybWgxVGlLRlZVMDVJSkZPUmJTbVFyTUl4eW84eU9hWDlFTGZ1dU1rSmFPdWZVZXhEUXRkZ3RDbVFhMFdEV0pjd3ZzVE01eXB0U0FVdE5MNTM0NHJtVmJ5WDRWVExqOUVrZnl5cldSWHFSb09qemRWcG1mbElZeXBCZWZYTm95WHBmMU5QWVV6akVzN21qMlJ5VjAtbUxwNTAwZFZVSUduMU5ZMElERk5odkxFMVVMdFFzaS0wRHQ0dWJBMzFRcFAyWmNhUmlRdw?oc=5",
+      "published": "2026-11-14T13:37:35+00:00"
+    },
+    {
+      "cat": "uae",
+      "source": "Khaleej Times",
+      "title": "15-year-old Vaibhav Sooryavanshi becomes youngest captain in men's T20 history - Khaleej Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDVQZzVqZkxESDdJd0F4XzNoaUxKZHo3bDNReExyUGt5RnBhMlNTR1RKZl9HREVGUkd5TXRlTk9DRDBPSDMxN3RFZVp1bzdPNWsycUpfZlUyNDFnT0JkbmNRYi1CNHpseWc4SHZxUlNlMjEtY2hjdFVzVy1aZDgzTjZQTV9NUF9WRDROR0tPbFZIRWd0UlJIOXRVNzFNcU0xLV9BS3QyTdIBrwFBVV95cUxOckQzMXV6cGVWRkF2TjVVNzdwQm5KekRsR3Y1YWJDdkZraEJ3R2lmTUxHdGhQVWNsU3NRblF2aGF2LTJnV2VURDN1VXYyZmVFckdlaDc1Umt6amFVR1JnUEhHVTVIV0hOcWJfMlNWaUdxbEt0al9lSTE5SlFMZFVTamkwNm05UVAzQ0E5YVFNNkFIN3VlVy00STdYX3AwTk1vY2RSUThFeHVma2dxQ2Mw?oc=5",
+      "published": "2026-11-14T10:54:56+00:00"
     },
     {
       "cat": "adx",
@@ -158,9 +158,44 @@
     {
       "cat": "world",
       "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:37:25+00:00"
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:42:58+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T11:06:32+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:37:45+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T08:17:41+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T14:33:59+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T09:26:37+00:00"
     },
     {
       "cat": "world",
@@ -172,13 +207,6 @@
     {
       "cat": "world",
       "source": "BBC News",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15T02:49:45+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T03:21:04+00:00"
@@ -186,16 +214,16 @@
     {
       "cat": "world",
       "source": "BBC News",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T18:28:06+00:00"
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T09:57:25+00:00"
     },
     {
       "cat": "world",
       "source": "BBC News",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T22:09:40+00:00"
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T22:37:25+00:00"
     },
     {
       "cat": "world",
@@ -203,6 +231,13 @@
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14T18:17:58+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T18:28:06+00:00"
     },
     {
       "cat": "world",
@@ -221,9 +256,9 @@
     {
       "cat": "world",
       "source": "BBC News",
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T00:03:52+00:00"
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T10:42:20+00:00"
     },
     {
       "cat": "world",
@@ -233,44 +268,9 @@
       "published": "2026-11-14T15:42:54+00:00"
     },
     {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T10:42:20+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T01:47:36+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T19:14:33+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T15:09:40+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:24:11+00:00"
-    },
-    {
       "cat": "business",
       "source": "BBC News",
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15T00:01:07+00:00"
     },
@@ -420,13 +420,6 @@
       "title": "What we know so far about the Microsoft outage",
       "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13T11:43:27+00:00"
-    },
-    {
-      "cat": "tech",
-      "source": "BBC News",
-      "title": "What happened overnight with the Microsoft global outage?",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T07:18:17+00:00"
     },
     {
       "cat": "tech",
