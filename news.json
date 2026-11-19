@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:25:12.230266+00:00",
+  "updated_at": "2026-11-19T23:54:08.079719+00:00",
   "stories": [
     {
       "cat": "uae",
@@ -144,16 +144,58 @@
     {
       "cat": "world",
       "source": "BBC News",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:33:51+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T16:55:57+00:00"
+      "published": "2026-11-19T20:07:02+00:00"
     },
     {
       "cat": "world",
       "source": "BBC News",
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T15:23:34+00:00"
+      "published": "2026-11-19T17:38:22+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T21:21:43+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:04:30+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T22:48:22+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:40:29+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T23:51:50+00:00"
     },
     {
       "cat": "world",
@@ -161,13 +203,6 @@
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T15:52:26+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:31:23+00:00"
     },
     {
       "cat": "world",
@@ -182,6 +217,13 @@
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
       "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T00:49:19+00:00"
+    },
+    {
+      "cat": "world",
+      "source": "BBC News",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T13:31:23+00:00"
     },
     {
       "cat": "world",
@@ -210,48 +252,6 @@
       "title": "Florida pastor found guilty over role in assassination of Haitian president",
       "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T11:44:57+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T17:03:23+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T02:59:06+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T17:00:40+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T23:28:03+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T15:39:57+00:00"
-    },
-    {
-      "cat": "world",
-      "source": "BBC News",
-      "title": "William and Kate meet PM Modi as they wrap up India tour",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T20:07:08+00:00"
     },
     {
       "cat": "business",
@@ -294,6 +294,13 @@
       "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
       "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T00:05:31+00:00"
+    },
+    {
+      "cat": "business",
+      "source": "BBC News",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19T02:59:06+00:00"
     },
     {
       "cat": "business",
@@ -352,13 +359,6 @@
       "published": "2026-11-18T04:00:54+00:00"
     },
     {
-      "cat": "business",
-      "source": "BBC News",
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T18:43:05+00:00"
-    },
-    {
       "cat": "tech",
       "source": "BBC News",
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
@@ -406,13 +406,6 @@
       "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
       "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T05:10:02+00:00"
-    },
-    {
-      "cat": "tech",
-      "source": "BBC News",
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T03:07:22+00:00"
     },
     {
       "cat": "tech",
